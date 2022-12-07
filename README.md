@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mysolutions24
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @mudducode
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning bca degree
+- 💞️ I’m looking to collaborate on technical projjects
+- 📫 mudassirkhaan39@gmail.com
 
 <!---
 mysolutions24/mysolutions24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
