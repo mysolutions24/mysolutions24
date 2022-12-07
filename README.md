@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mudducode
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning bca degree
-- 💞️ I’m looking to collaborate on technical projjects
+- 💞️ I’m looking to collaborate on technical projects
 - 📫 mudassirkhaan39@gmail.com
 
 <!---
