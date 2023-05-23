@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mudducode
+- 👋 Hi, I’m mudassir
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning bca degree
 - 💞️ I’m looking to collaborate on technical projects
