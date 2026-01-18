@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mudassir
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning bca degree
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Big data
 - 💞️ I’m looking to collaborate on technical projects
 - 📫 mudassirkhaan39@gmail.com
 
